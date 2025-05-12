@@ -4,5 +4,5 @@ This Image Search App is a web application that allows users to search for image
 <br>
 <br>
 Here is the link <br>
-https://sanchit1002.github.io/IMAGE-GALLERY/
+https://thakareyuvraj48.github.io/Image-Gallery/
 
